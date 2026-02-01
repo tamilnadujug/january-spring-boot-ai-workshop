@@ -6,7 +6,7 @@ Welcome! This repository serves as a comprehensive reference guide for learning 
 
 This repository consolidates reference materials from two distinct talks, each focusing on different aspects of Spring AI development:
 
-### 🚀 Talk 1: Spring AI Fundamentals
+### Talk 1: Spring AI Fundamentals
 **Presenter**: Thamarai P  
 **Focus**: Core Spring AI Concepts & Implementation  
 **Repository**: [spring-ai-workshop](https://github.com/ThamaraiP/spring-ai-workshop)  
@@ -57,7 +57,7 @@ cd spring-ai-workshop
 
 ---
 
-### 🔐 Talk 2: MCP Internals, Security & Cloud Deployments
+### Talk 2: MCP Internals, Security & Cloud Deployments
 **Presenters**: Shaama M & Muthukumaran  
 **Focus**: Building Production-Ready MCP Servers  
 **Repository**: [javafest-mcp-internals-security-cd](https://github.com/Shaamam/javafest-mcp-internals-security-cd)
@@ -106,7 +106,7 @@ cd chapter-1
 
 ---
 
-## 🎯 Recommended Learning Path
+## Recommended Learning Path
 
 ### For Complete Beginners
 Start with **Talk 1: Thamarai's Spring AI Fundamentals** to understand core concepts, then move to **Talk 2: Shaama & Muthukumaran's MCP workshop** for production deployment.
@@ -135,7 +135,7 @@ If you're already familiar with Spring AI basics, jump directly to **Talk 2: Sha
 
 ---
 
-## 🛠️ Prerequisites
+## Prerequisites
 
 ### Common Requirements
 - Java 17+ (Java 21 recommended for MCP workshop)
@@ -155,7 +155,7 @@ If you're already familiar with Spring AI basics, jump directly to **Talk 2: Sha
 
 ---
 
-## 📖 Additional Resources
+## Additional Resources
 
 ### Official Documentation
 - [Spring AI Reference](https://docs.spring.io/spring-ai/reference/)
@@ -172,7 +172,7 @@ If you're already familiar with Spring AI basics, jump directly to **Talk 2: Sha
 
 ---
 
-## 🤝 Contributors & Acknowledgments
+## Contributors & Acknowledgments
 
 ### Workshop Presenters
 - **Shaama M** - [LinkedIn](https://www.linkedin.com/in/shaama-m-030115237)
